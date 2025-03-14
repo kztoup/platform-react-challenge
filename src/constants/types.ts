@@ -1,0 +1,5 @@
+export enum EPATHS {
+  ROOT = 'ROOT',
+  BREED_LIST = 'BREED_LIST',
+  FAVOURITE_LIST = 'FAVOURITE_LIST',
+}
